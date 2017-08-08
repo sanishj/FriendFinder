@@ -1,1 +1,2 @@
 # FriendFinder
+"FriendFinder" application is a dating app. This full-stack site takes in results from a surveys the app presents you, then compares your answers with those from other users. The app will then display the name and picture of the user with the best overall match.
